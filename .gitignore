@@ -26,6 +26,13 @@
 *.a
 *.lib
 
+# Eclipse
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+
 # Executables
 *.exe
 *.out
